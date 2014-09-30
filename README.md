@@ -13,7 +13,6 @@ Main Features
 - Use different images and text for labels
 - Add your own images for catalog or product labels: upload them or just insert a path
 - Advantage of label positions: top-left, top-center, top-right, middle-left, middle-center, middle-right, bottom-left, bottom-center, bottom-right
-
 - Customize a label for product
 - Display multiple labels on each product item
 - Disable labels when needed
